@@ -1,6 +1,4 @@
-# ServiceBox
-
-Application will be available at `http://localhost:8081/`
+# ServiceBox - InfoShare's Academy project
 
 ### Database container
 ```bash
